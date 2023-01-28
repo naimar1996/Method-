@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\bin\Debug\net6.0\ConsoleApp53.exe
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\bin\Debug\net6.0\ConsoleApp53.deps.json
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\bin\Debug\net6.0\ConsoleApp53.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\bin\Debug\net6.0\ConsoleApp53.dll
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\bin\Debug\net6.0\ConsoleApp53.pdb
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\net6.0\ConsoleApp53.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\net6.0\ConsoleApp53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\net6.0\ConsoleApp53.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\net6.0\ConsoleApp53.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\net6.0\ConsoleApp53.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\net6.0\ConsoleApp53.dll
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\net6.0\refint\ConsoleApp53.dll
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\net6.0\ConsoleApp53.pdb
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\net6.0\ConsoleApp53.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleApp53\ConsoleApp53\obj\Debug\net6.0\ref\ConsoleApp53.dll
